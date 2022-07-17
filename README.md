@@ -1,4 +1,4 @@
-# Pong Gamee
+# Pong Game
 Pong was a video game from the first generation of video game consoles published by Atari, created by Nolan Bushnell and released on November 29, 1972. 
 Pong is based on the sport of table tennis.
 
